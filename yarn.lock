@@ -7800,10 +7800,10 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-click-outside@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/vue-click-outside/-/vue-click-outside-1.0.7.tgz#cdd2b1605e3c4944784e1794eae4a12a0f700bd6"
-  integrity sha1-zdKxYF48SUR4TheU6uShKg9wC9Y=
+vue-click-outside@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vue-click-outside/-/vue-click-outside-1.1.0.tgz#48b7680b518923e701643cccb3e165854aad99eb"
+  integrity sha512-pNyvAA9mRXJwPHlHJyjMb4IONSc7khS5lxGcMyE2EIKgNMAO279PWM9Hyq0d5J4FkiSRdmFLwnbjDd5UtPizHQ==
 
 vue-discord-message@^3.0.0:
   version "3.0.0"
@@ -7898,12 +7898,12 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-yuu@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-yuu/-/vuepress-theme-yuu-1.0.0.tgz#970b6aa8f5f6bd2e5db5d00539ccacba83ad4389"
-  integrity sha512-+b3TFETHTnUW2tvqaEdK6zl/2FmkPmcYKstGs08V04vykvuLCWh5b0s+athgF+gu+MBThqJV1MjwrVDzNcoKTw==
+vuepress-theme-yuu@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-yuu/-/vuepress-theme-yuu-3.0.1.tgz#9855d45388238a7013f70c072eb1b1706c485c48"
+  integrity sha512-7YYfifha6nkUF0qFDPz66KahZsQpmcfg6pdG+WjbEa27vGSUAl/CGg0Tiaqfv9Z17pi5FCM0MKPEcmoCJjGu7Q==
   dependencies:
-    vue-click-outside "^1.0.7"
+    vue-click-outside "^1.1.0"
 
 vuepress@^0.14.10:
   version "0.14.11"
